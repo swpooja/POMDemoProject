@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-14T07:24:54 GMT" name="Default suite" finished-at="2023-12-14T07:24:56 GMT" duration-ms="1965">
+    <groups>
+    </groups>
+    <test started-at="2023-12-14T07:24:54 GMT" name="Default test" finished-at="2023-12-14T07:24:56 GMT" duration-ms="1965">
+      <class name="testScripts.PlaceOrderTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testScripts.PlaceOrderTest@702ed190]" started-at="2023-12-14T07:24:54 GMT" name="setup" finished-at="2023-12-14T07:24:55 GMT" duration-ms="910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validLogin()[pri:1, instance:testScripts.PlaceOrderTest@702ed190]" started-at="2023-12-14T07:24:55 GMT" name="validLogin" finished-at="2023-12-14T07:24:55 GMT" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method signature="addItem()[pri:2, instance:testScripts.PlaceOrderTest@702ed190]" started-at="2023-12-14T07:24:55 GMT" name="addItem" finished-at="2023-12-14T07:24:55 GMT" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItem -->
+        <test-method signature="checkoutTest()[pri:3, instance:testScripts.PlaceOrderTest@702ed190]" started-at="2023-12-14T07:24:55 GMT" name="checkoutTest" finished-at="2023-12-14T07:24:55 GMT" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutTest -->
+        <test-method signature="checkoutInfo()[pri:4, instance:testScripts.PlaceOrderTest@702ed190]" started-at="2023-12-14T07:24:55 GMT" name="checkoutInfo" finished-at="2023-12-14T07:24:56 GMT" duration-ms="541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutInfo -->
+      </class> <!-- testScripts.PlaceOrderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
